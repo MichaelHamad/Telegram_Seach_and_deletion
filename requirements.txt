@@ -1,0 +1,5 @@
+telethon>=1.35.0
+pandas>=2.0.0
+python-dotenv>=1.0.0
+colorama>=0.4.6
+tqdm>=4.65.0

@@ -1,0 +1,10 @@
+# Telegram API credentials
+# Get these from https://my.telegram.org/auth
+API_ID=your_api_id_here
+API_HASH=your_api_hash_here
+
+# Your phone number (with country code, e.g., +1234567890)
+PHONE_NUMBER=your_phone_number_here
+
+# Optional: Session file name (will be created automatically)
+SESSION_NAME=telegram_session
